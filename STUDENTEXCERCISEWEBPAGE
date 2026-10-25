@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cloud Computing Lab</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 30px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        h1 { color: #1a365d; text-align: center; border-bottom: 3px solid #cbd5e1; padding-bottom: 10px; }
+        h2 { color: #2b6cb0; margin-top: 30px; }
+        .profile { background: #e2e8f0; padding: 15px; border-radius: 8px; margin-bottom: 20px; }
+        .profile p { margin: 5px 0; font-size: 1.1em; }
+        .about { line-height: 1.6; font-size: 1.1em; }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Cloud Lab</h1>
+    
+    <div class="profile">
+        <p><strong>Name:</strong> Manthan Lashkari</p>
+        <p><strong>Course:</strong> BCA Semester V</p>
+        <p>This page is hosted using GitHub Pages.</p>
+    </div>
+
+    <h2>About Me</h2>
+    <div class="about">
+        <p>I am a Semester V BCA student at Oriental University, Indore, specializing in core computer science and software engineering.</p>
+        <p>My current focus includes cloud computing architectures, distributed systems, and developing a full-stack Hospital Management System using modern web technologies.</p>
+    </div>
+</body>
+</html>
